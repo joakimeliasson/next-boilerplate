@@ -1,6 +1,7 @@
 {
-  "name": "gbgbrantaste-public",
+  "name": "next-boilerplate",
   "private": true,
+  "author": "Joakim Eliasson",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
